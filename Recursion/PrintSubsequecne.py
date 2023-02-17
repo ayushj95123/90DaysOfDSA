@@ -1,3 +1,5 @@
+
+#Time Complexity 2^n
 def printSubsequence(a, index = 0, dp = []):
     if index == len(a):
         print(dp)
