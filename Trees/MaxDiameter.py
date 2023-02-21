@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 
-
+#TC: O(N)
 class TreeInfo:
     def __init__(self, height = 0, maxDiameter = 0):
         self.height = height
